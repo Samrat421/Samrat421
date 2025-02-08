@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samrat421
+- 👋 Hi, I’m Samrat
 - 👀 I’m interested in Spending late nights with VS Code—because sleep is overrated.
 
 - 🌱 I’m currently ***Exploring the world of code, where a missing bracket can turn everything upside down!"**  
